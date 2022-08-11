@@ -1,7 +1,12 @@
 Składniki:
 
+<<<<<<< HEAD
 40 ml wódki
 20 ml syropu malinowego
+=======
+50 ml wódki
+15 ml syropu malinowego
+>>>>>>> 37893b3 (Change 1)
 3-10 kropel sosu Tabasco
 
 Przygotowanie:
